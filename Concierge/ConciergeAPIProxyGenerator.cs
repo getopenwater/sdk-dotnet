@@ -384,9 +384,7 @@ namespace MemberSuite.SDK.Concierge
         {
             get { return _secretAccessKey; }
             set
-            {
-                if (_secretAccessKey != null)
-                    throw new ApplicationException("You can only set the secret access key once.");
+            {                
                 _secretAccessKey = value;
             }
         }
@@ -440,9 +438,7 @@ namespace MemberSuite.SDK.Concierge
                 IsSecretAccessKeySet = true;
 
                 foreach (var c in secretAccessKey)
-                    SecretAccessKey.AppendChar(c);
-
-                SecretAccessKey.MakeReadOnly();
+                    SecretAccessKey.AppendChar(c);                
             }
         }
 

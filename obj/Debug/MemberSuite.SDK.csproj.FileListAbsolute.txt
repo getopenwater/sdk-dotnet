@@ -9,3 +9,11 @@ C:\Perforce\mss_main\assemblies\MemberSuite.SDK.pdb
 C:\Perforce\mss_main\shared\MemberSuite.SDK\obj\Debug\MemberSuite.SDK.dll
 C:\Perforce\mss_main\shared\MemberSuite.SDK\obj\Debug\MemberSuite.SDK.pdb
 C:\Perforce\mss_main\assemblies\MemberSuite.SDK.XML
+C:\assemblies\app.config.transform
+C:\assemblies\MemberSuite.SDK.dll.config
+C:\assemblies\MemberSuite.SDK.XML
+C:\assemblies\MemberSuite.SDK.dll
+C:\assemblies\MemberSuite.SDK.pdb
+C:\git\membersuite-sdk\obj\Debug\MemberSuite.SDK.csprojResolveAssemblyReference.cache
+C:\git\membersuite-sdk\obj\Debug\MemberSuite.SDK.dll
+C:\git\membersuite-sdk\obj\Debug\MemberSuite.SDK.pdb

@@ -297,7 +297,7 @@ namespace MemberSuite.SDK.Concierge
 
                 var ConciergeUri = ConfigurationManager.AppSettings[instanceName + "_ConciergeUri"];
                 if (ConciergeUri == null)
-                    ConciergeUri = "https://api.membersuite.com";
+                    ConciergeUri = "https://soap.membersuite.com";
 
                 // we have to build it up - hard coded here
                 var upn = ConfigurationManager.AppSettings[instanceName + "_ConciergeUpn"];
